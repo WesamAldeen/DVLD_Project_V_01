@@ -1,0 +1,14 @@
+# Visual Studio Build Results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Private Settings and User Files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Diagnostic and Log Files
+*.pdb
+*.log
